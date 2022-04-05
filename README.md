@@ -1,16 +1,15 @@
-### Hi there 👋
+***Hi there 👋*** My name is **Yurii Kraev**
 
-<!--
-**wonsleved/wonsleved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm 20 years old fullstack developer from Moscow. Write on <b>JavaScript and NodeJs</b>, C/C++, and other langs.
 
-Here are some ideas to get you started:
+### :mortar_board: Education
+| Degree                     | University                                 |  Status           |
+| -------------------------- | ------------------------------------------ | :---------------: |
+| B. of Software Engineering | National Research Nuclear University MEPhI | In progress       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :mailbox:	Contacts
+
+* [VK](https://vk.com/id262447298)
+* [Telegram](https://t.me/vsntg)
